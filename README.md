@@ -3,21 +3,22 @@
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# PodKhy
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto trata-se de mais uma das marcas da magnata Kylie Jenner! Após anos de experiência em frente às câmeras, desta vez, a empresária decidiu criar o seu proóprio podcast, para se divertir em conversas com suas celebridades amigas!
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Imagem: https://leonardo.ai/
+Nome: https://chatgpt.com/
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "Leonardo AI" para criar a imagem através de um prompt detalhado e, em seguida, o "ChatGPT" para sugerir um nome criativo para a marca.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão
-Comente sobre o desafio de criar algo 'natty' com IA.
+Por mais simples que o projeto seja, a IA possui um poder muito grande, possibilitando diversas formas de aplicações e podendo oferecer diversos resultados.
 ```
 
