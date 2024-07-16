@@ -18,7 +18,7 @@ Utilizei o "Leonardo AI" para criar a imagem através de um prompt detalhado e, 
 para sugerir um nome criativo para a marca.
 
 ## 🚀 Resultados
-<img src="https://github.com/Syang-Santos-Ferreira/lab-natty-or-not/tree/main/img">
+<img src="../https://github.com/Syang-Santos-Ferreira/lab-natty-or-not/tree/main/img">
 
 ## 💭 Reflexão
 Por mais simples que o projeto seja, a IA possui um poder muito grande, possibilitando diversas formas de aplicações e
