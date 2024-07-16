@@ -16,7 +16,7 @@ Nome: https://chatgpt.com/
 Utilizei o "Leonardo AI" para criar a imagem através de um prompt detalhado e, em seguida, o "ChatGPT" para sugerir um nome criativo para a marca.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
 
 ## 💭 Reflexão
 Por mais simples que o projeto seja, a IA possui um poder muito grande, possibilitando diversas formas de aplicações e podendo oferecer diversos resultados.
