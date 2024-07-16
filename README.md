@@ -18,7 +18,7 @@ Utilizei o "Leonardo AI" para criar a imagem através de um prompt detalhado e, 
 para sugerir um nome criativo para a marca.
 
 ## 🚀 Resultados
-<img src="/
+<img src="/img/Default_an_image_of_Kylie_Jenner_in_a_podcast_studio_posed_con_2.jpg>
 
 ## 💭 Reflexão
 Por mais simples que o projeto seja, a IA possui um poder muito grande, possibilitando diversas formas de aplicações e
